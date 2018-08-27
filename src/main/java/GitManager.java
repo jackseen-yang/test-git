@@ -3,7 +3,6 @@
  */
 public class GitManager {
     public static void main(String[] args) {
-        System.out.println("wo shi wang wu");
-        System.out.println("我是李四");
+        System.out.println("王五回退");
     }
 }
